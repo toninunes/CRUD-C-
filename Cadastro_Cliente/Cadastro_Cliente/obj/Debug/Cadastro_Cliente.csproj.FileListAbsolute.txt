@@ -1,0 +1,11 @@
+D:\Udemy\C_Sharp Exec\CRUD 1\Cadastro_Cliente\Cadastro_Cliente\bin\Debug\Cadastro_Cliente.exe.config
+D:\Udemy\C_Sharp Exec\CRUD 1\Cadastro_Cliente\Cadastro_Cliente\bin\Debug\Cadastro_Cliente.exe
+D:\Udemy\C_Sharp Exec\CRUD 1\Cadastro_Cliente\Cadastro_Cliente\bin\Debug\Cadastro_Cliente.pdb
+D:\Udemy\C_Sharp Exec\CRUD 1\Cadastro_Cliente\Cadastro_Cliente\obj\Debug\Cadastro_Cliente.csproj.AssemblyReference.cache
+D:\Udemy\C_Sharp Exec\CRUD 1\Cadastro_Cliente\Cadastro_Cliente\obj\Debug\Cadastro_Cliente.csproj.SuggestedBindingRedirects.cache
+D:\Udemy\C_Sharp Exec\CRUD 1\Cadastro_Cliente\Cadastro_Cliente\obj\Debug\Cadastro_Cliente.frmCadastroCliente.resources
+D:\Udemy\C_Sharp Exec\CRUD 1\Cadastro_Cliente\Cadastro_Cliente\obj\Debug\Cadastro_Cliente.Properties.Resources.resources
+D:\Udemy\C_Sharp Exec\CRUD 1\Cadastro_Cliente\Cadastro_Cliente\obj\Debug\Cadastro_Cliente.csproj.GenerateResource.cache
+D:\Udemy\C_Sharp Exec\CRUD 1\Cadastro_Cliente\Cadastro_Cliente\obj\Debug\Cadastro_Cliente.csproj.CoreCompileInputs.cache
+D:\Udemy\C_Sharp Exec\CRUD 1\Cadastro_Cliente\Cadastro_Cliente\obj\Debug\Cadastro_Cliente.exe
+D:\Udemy\C_Sharp Exec\CRUD 1\Cadastro_Cliente\Cadastro_Cliente\obj\Debug\Cadastro_Cliente.pdb
